@@ -1,4 +1,4 @@
-package com.docencia.semaforo;
+package org.docencia.hilos;
 
 import java.util.Objects;
 import java.util.concurrent.Semaphore;

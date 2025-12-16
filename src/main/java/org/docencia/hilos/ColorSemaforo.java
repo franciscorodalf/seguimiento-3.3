@@ -1,4 +1,4 @@
-package com.docencia.semaforo;
+package org.docencia.hilos;
 
 import java.time.Duration;
 import java.util.Objects;

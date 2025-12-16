@@ -1,4 +1,4 @@
-package com.docencia.semaforo;
+package org.docencia.hilos;
 
 /**
  * Representa los colores de un semáforo tradicional junto con la duración
